@@ -1,0 +1,22 @@
+period,metric,expected,actual,pass
+Pre-COVID (2010-2019),n_obs_total,1515.0,1515.0,True
+Pre-COVID (2010-2019),n_c_legfin,1389.0,1389.0,True
+Pre-COVID (2010-2019),n_countries,196.0,196.0,True
+Pre-COVID (2010-2019),mean_c_legfin,76.04,76.04,True
+Pre-COVID (2010-2019),sd_c_legfin,26.42,26.42,True
+Pre-COVID (2010-2019),cv_c_legfin_pct,34.74,34.74,True
+Pre-COVID (2010-2019),mean_c2,74.35,74.35,True
+COVID (2020-2021),n_obs_total,358.0,358.0,True
+COVID (2020-2021),n_c_legfin,358.0,358.0,True
+COVID (2020-2021),n_countries,189.0,189.0,True
+COVID (2020-2021),mean_c_legfin,61.61,61.61,True
+COVID (2020-2021),sd_c_legfin,23.69,23.69,True
+COVID (2020-2021),cv_c_legfin_pct,38.45,38.45,True
+COVID (2020-2021),mean_c2,67.85,67.85,True
+Post-COVID (2022-2025),n_obs_total,762.0,762.0,True
+Post-COVID (2022-2025),n_c_legfin,762.0,762.0,True
+Post-COVID (2022-2025),n_countries,196.0,196.0,True
+Post-COVID (2022-2025),mean_c_legfin,59.15,59.15,True
+Post-COVID (2022-2025),sd_c_legfin,20.63,20.63,True
+Post-COVID (2022-2025),cv_c_legfin_pct,34.88,34.88,True
+Post-COVID (2022-2025),mean_c2,66.32,66.32,True

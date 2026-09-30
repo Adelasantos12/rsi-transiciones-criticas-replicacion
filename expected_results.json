@@ -1,0 +1,29 @@
+{
+  "Pre-COVID (2010-2019)": {
+    "n_obs_total": 1515,
+    "n_c_legfin": 1389,
+    "n_countries": 196,
+    "mean_c_legfin": 76.04,
+    "sd_c_legfin": 26.42,
+    "cv_c_legfin_pct": 34.74,
+    "mean_c2": 74.35
+  },
+  "COVID (2020-2021)": {
+    "n_obs_total": 358,
+    "n_c_legfin": 358,
+    "n_countries": 189,
+    "mean_c_legfin": 61.61,
+    "sd_c_legfin": 23.69,
+    "cv_c_legfin_pct": 38.45,
+    "mean_c2": 67.85
+  },
+  "Post-COVID (2022-2025)": {
+    "n_obs_total": 762,
+    "n_c_legfin": 762,
+    "n_countries": 196,
+    "mean_c_legfin": 59.15,
+    "sd_c_legfin": 20.63,
+    "cv_c_legfin_pct": 34.88,
+    "mean_c2": 66.32
+  }
+}
